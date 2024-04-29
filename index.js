@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to je moeder","Watching porno"];
+const statusMessages = ["Listening to CraftFinitySMP"];
 
 
 let currentIndex = 0;
